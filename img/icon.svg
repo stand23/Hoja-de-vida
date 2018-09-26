@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <filter height="200%" id="svg_2_blur" width="200%" x="-50%" y="-50%">
+   <feGaussianBlur in="SourceGraphic" stdDeviation="2.8"/>
+  </filter>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#00f27d" filter="url(#svg_2_blur)" height="139.999999" id="svg_2" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" width="290.999994" x="163.5" y="149.500001"/>
+  <text fill="#000000" font-family="serif" font-size="24" id="svg_1" stroke="#000000" stroke-width="0" style="cursor: move;" text-anchor="middle" transform="matrix(5.08831 0 0 5.99154 -866.336 -817.759)" x="232.485274" xml:space="preserve" y="180.224209">A.A.</text>
+  <rect fill="#4176c6" height="11" id="svg_13" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" width="250" x="186.5" y="265.5"/>
+  <rect fill="#4176c6" height="1" id="svg_14" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" width="0" x="526.5" y="371.5"/>
+ </g>
+</svg>
